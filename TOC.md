@@ -412,6 +412,7 @@
       + [bitmap](/sql-reference/sql-functions/aggregate-functions/bitmap.md)
       + [count](/sql-reference/sql-functions/aggregate-functions/count.md)
       + [hll_union_agg](/sql-reference/sql-functions/aggregate-functions/hll_union_agg.md)
+      + [hll_raw_agg](/sql-reference/sql-functions/aggregate-functions/hll_raw_agg.md)
       + [max](/sql-reference/sql-functions/aggregate-functions/max.md)
       + [max_by](/sql-reference/sql-functions/aggregate-functions/max_by.md)
       + [min](/sql-reference/sql-functions/aggregate-functions/min.md)
